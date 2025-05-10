@@ -180,17 +180,8 @@
             position: relative;
             grid-column: span 12;
         }
-        .year-event::before {
-            content: "";
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3z' fill='%23000' fill-opacity='0.02' fill-rule='evenodd'/%3E%3C/svg%3E");
-            z-index: 0;
-            pointer-events: none;
-        }
+        
+        
         .year-event-title {
             font-size: 1.4rem;
             font-weight: bold;
@@ -199,6 +190,16 @@
             position: relative;
             z-index: 1;
         }
+        
+        .year-event-title::before {
+            content: "★";
+            color: #2e7d32;
+            margin-right: 0.3em;
+            font-size: 1.2em;
+            display: inline-block;
+        }
+
+
         .year-event-content {
             font-size: 1rem;
             line-height: 1.6;
@@ -274,12 +275,7 @@
             position: relative;
             padding-left: 15px;
         }
-        .continuous-event::before {
-            content: "★";
-            position: absolute;
-            left: 0;
-            color: #2e7d32;
-        }
+       
         
         /* Collapse/expand icon */
         .year-header::after {
@@ -1375,7 +1371,7 @@
                 </div>
                 
                 <article class="year-event">
-                    <h3 class="year-event-title">Yearlong: YEMEN WAR — Humanitarian Crisis Continues</h3>
+                    <h3 class="year-event-title">Yearlong: Yemen War — Humanitarian Crisis Continues</h3>
                     <div class="year-event-content">
                         <p class="continuous-event">
                             “The war in Yemen began in March 2015 after Houthi rebels swept out of the mountains and occupied northern Yemen, forcing the government of Yemeni President Abed Rabbo Mansour Hadi into exile.” (2015)
@@ -1499,7 +1495,7 @@
                     <h3 class="year-event-title">Yearlong: Afghan Women Under Threat</h3>
                     <div class="year-event-content">
                         <p class="continuous-event">
-                            “Parveena’s story — she was one of six policewomen killed in 2013 — is an extreme case, but it reflects the dangers and difficulties of Afghan policewomen and the broader Western effort to engineer gender equality in Afghanistan. The plight of women under the Taliban captured the Western imagination, and their liberation became a rallying cry. A flood of money and programs poured into Afghanistan, for girls’ schools and women’s shelters and television shows, all aimed at elevating women’s status..” (2013)
+                            “Parveena’s story — she was one of six policewomen killed in 2013 — is an extreme case, but it reflects the dangers and difficulties of Afghan policewomen and the broader Western effort to engineer gender equality in Afghanistan. The plight of women under the Taliban captured the Western imagination, and their liberation became a rallying cry. A flood of money and programs poured into Afghanistan, for girls’ schools and women’s shelters and television shows, all aimed at elevating women’s status ...” (2013)
                         </p>
                     </div>
                 </article>
