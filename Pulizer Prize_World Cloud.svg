@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2055" height="1101">
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(275,665)" font-size="149" style="fill:rgb(175, 145, 98)">The New York Times</text>
+<text transform="translate(484,475)" font-size="97" style="fill:rgb(170, 138, 89)">The Washington Post</text>
+<text transform="translate(860,357)" font-size="81" style="fill:rgb(189, 162, 117)">The Associated Press</text>
+<text transform="translate(936,790)" font-size="74" style="fill:rgb(207, 191, 163)">The Wall Street Journal</text>
+<text transform="translate(193,639) rotate(-90)" font-size="67" style="fill:rgb(188, 154, 98)">Newsday</text>
+<text transform="translate(449,714)" font-size="59" style="fill:rgb(162, 132, 84)">The Christian Science Monitor</text>
+<text transform="translate(483,217)" font-size="59" style="fill:rgb(188, 155, 103)">Reuters</text>
+<text transform="translate(1259,918)" font-size="59" style="fill:rgb(144, 125, 98)">Los Angeles Times</text>
+<text transform="translate(244,325)" font-size="49" style="fill:rgb(191, 156, 98)">The Baltimore Sun</text>
+<text transform="translate(719,830)" font-size="49" style="fill:rgb(172, 145, 103)">Chicago Tribune</text>
+<text transform="translate(321,748)" font-size="37" style="fill:rgb(165, 136, 94)">The Village Voice</text>
+<text transform="translate(1283,94)" font-size="37" style="fill:rgb(144, 118, 81)">Unknown</text>
+<text transform="translate(252,383)" font-size="37" style="fill:rgb(190, 155, 97)">The Milwaukee Journal</text>
+<text transform="translate(206,965)" font-size="37" style="fill:rgb(207, 196, 179)">Scripps-Howard Newspapers</text>
+<text transform="translate(720,282)" font-size="37" style="fill:rgb(191, 161, 113)">International News Service</text>
+<text transform="translate(1302,254)" font-size="37" style="fill:rgb(144, 118, 77)">United Press</text>
+<text transform="translate(132,852)" font-size="37" style="fill:rgb(212, 200, 180)">New York Daily News</text>
+<text transform="translate(1272,392)" font-size="37" style="fill:rgb(142, 118, 79)">New York Herald Tribune Syndicate</text>
+<text transform="translate(1631,695)" font-size="37" style="fill:rgb(139, 114, 75)">The Miami News</text>
+<text transform="translate(1319,998)" font-size="37" style="fill:rgb(143, 124, 95)">Philadelphia Bulletin</text>
+<text transform="translate(1587,518)" font-size="37" style="fill:rgb(146, 119, 78)">Dispatch News Service</text>
+<text transform="translate(118,864) rotate(-90)" font-size="37" style="fill:rgb(186, 153, 99)">The Philadelphia Inquirer</text>
+<text transform="translate(1321,860)" font-size="37" style="fill:rgb(145, 122, 86)">Louisville Courtier-Journal</text>
+<text transform="translate(1681,450)" font-size="37" style="fill:rgb(149, 123, 81)">BuzzFeed News</text>
+<text transform="translate(271,108)" font-size="37" style="fill:rgb(183, 149, 93)">San Jose Mercury News</text>
+<text transform="translate(653,547)" font-size="37" style="fill:rgb(172, 141, 92)">The Dallas Morning News</text>
+<text transform="translate(1219,168)" font-size="37" style="fill:rgb(129, 105, 69)">The Miami Herald</text>
+</svg>
