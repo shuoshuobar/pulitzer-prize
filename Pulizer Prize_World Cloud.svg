@@ -1,31 +1,169 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2055" height="1101">
-<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
-<rect width="100%" height="100%" style="fill:white"></rect>
-<text transform="translate(293,410)" font-size="148" style="fill:rgb(174, 143, 95)">The New York Times</text>
-<text transform="translate(636,634)" font-size="96" style="fill:rgb(172, 141, 94)">The Washington Post</text>
-<text transform="translate(307,548)" font-size="80" style="fill:rgb(173, 143, 96)">The Associated Press</text>
-<text transform="translate(267,802)" font-size="73" style="fill:rgb(172, 146, 108)">The Wall Street Journal</text>
-<text transform="translate(379,902)" font-size="66" style="fill:rgb(158, 129, 85)">Newsday</text>
-<text transform="translate(59,719)" font-size="58" style="fill:rgb(218, 205, 184)">The Christian Science Monitor</text>
-<text transform="translate(1589,893)" font-size="58" style="fill:rgb(123, 101, 69)">Reuters</text>
-<text transform="translate(1090,712)" font-size="58" style="fill:rgb(148, 137, 122)">Los Angeles Times</text>
-<text transform="translate(1260,1030)" font-size="48" style="fill:rgb(177, 163, 142)">The Baltimore Sun</text>
-<text transform="translate(1322,182)" font-size="48" style="fill:rgb(152, 125, 82)">Chicago Tribune</text>
-<text transform="translate(414,210)" font-size="36" style="fill:rgb(202, 168, 111)">The Village Voice</text>
-<text transform="translate(326,254)" font-size="36" style="fill:rgb(159, 129, 83)">Unknown</text>
-<text transform="translate(1075,227)" font-size="36" style="fill:rgb(128, 104, 66)">The Milwaukee Journal</text>
-<text transform="translate(1933,818) rotate(-90)" font-size="36" style="fill:rgb(187, 173, 154)">Scripps-Howard Newspapers</text>
-<text transform="translate(327,969)" font-size="36" style="fill:rgb(176, 151, 113)">International News Service</text>
-<text transform="translate(828,837)" font-size="36" style="fill:rgb(175, 152, 117)">United Press</text>
-<text transform="translate(800,464)" font-size="36" style="fill:rgb(182, 153, 105)">New York Daily News</text>
-<text transform="translate(189,922) rotate(-90)" font-size="36" style="fill:rgb(184, 153, 101)">New York Herald Tribune Syndicate</text>
-<text transform="translate(1304,794)" font-size="36" style="fill:rgb(132, 107, 70)">The Miami News</text>
-<text transform="translate(1857,908) rotate(-90)" font-size="36" style="fill:rgb(149, 124, 85)">Philadelphia Bulletin</text>
-<text transform="translate(1086,256)" font-size="36" style="fill:rgb(118, 97, 63)">Dispatch News Service</text>
-<text transform="translate(281,645) rotate(-90)" font-size="36" style="fill:rgb(171, 138, 86)">The Philadelphia Inquirer</text>
-<text transform="translate(1169,845)" font-size="36" style="fill:rgb(164, 149, 128)">Louisville Courtier-Journal</text>
-<text transform="translate(1457,978)" font-size="36" style="fill:rgb(123, 99, 64)">BuzzFeed News</text>
-<text transform="translate(341,111)" font-size="36" style="fill:rgb(167, 136, 89)">San Jose Mercury News</text>
-<text transform="translate(1969,790) rotate(-90)" font-size="36" style="fill:rgb(191, 180, 165)">The Dallas Morning News</text>
-<text transform="translate(1208,892)" font-size="36" style="fill:rgb(158, 143, 121)">The Miami Herald</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2055 1101">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #cfbfa3;
+        font-size: 74px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26 {
+        font-family: ArialMT, Arial;
+        isolation: isolate;
+      }
+
+      .st1 {
+        fill: #ac9167;
+      }
+
+      .st1, .st22 {
+        font-size: 49px;
+      }
+
+      .st2 {
+        fill: #b7955d;
+      }
+
+      .st2, .st3, .st4, .st5, .st6, .st9, .st11, .st12, .st13, .st14, .st15, .st17, .st19, .st20, .st21, .st23, .st25 {
+        font-size: 37px;
+      }
+
+      .st3 {
+        fill: #8f7c5f;
+      }
+
+      .st4 {
+        fill: #8b724b;
+      }
+
+      .st5 {
+        fill: #8e764f;
+      }
+
+      .st6 {
+        fill: #816945;
+      }
+
+      .st7 {
+        fill: #bc9a62;
+        font-size: 67px;
+      }
+
+      .st8 {
+        fill: #a28454;
+      }
+
+      .st8, .st10, .st26 {
+        font-size: 59px;
+      }
+
+      .st9 {
+        fill: #cfc4b3;
+      }
+
+      .st10 {
+        fill: #907d62;
+      }
+
+      .st11 {
+        fill: #be9b61;
+      }
+
+      .st12 {
+        fill: #bfa171;
+      }
+
+      .st13 {
+        fill: #917a56;
+      }
+
+      .st14 {
+        fill: #907651;
+      }
+
+      .st15 {
+        fill: #957b51;
+      }
+
+      .st16 {
+        fill: #aa8a59;
+        font-size: 97px;
+      }
+
+      .st17 {
+        fill: #ba9963;
+      }
+
+      .st27 {
+        fill: #fff;
+      }
+
+      .st18 {
+        fill: #af9162;
+        font-size: 149px;
+      }
+
+      .st19 {
+        fill: #90764d;
+      }
+
+      .st20 {
+        fill: #92774e;
+      }
+
+      .st21 {
+        fill: #ac8d5c;
+      }
+
+      .st22 {
+        fill: #bf9c62;
+      }
+
+      .st23 {
+        fill: #a5885e;
+      }
+
+      .st24 {
+        fill: #bda275;
+        font-size: 81px;
+      }
+
+      .st25 {
+        fill: #d4c8b4;
+      }
+
+      .st26 {
+        fill: #bc9b67;
+      }
+    </style>
+  </defs>
+  <rect class="st27" width="2055" height="1101"/>
+  <text class="st18" transform="translate(275 665)"><tspan x="0" y="0">The New York Times</tspan></text>
+  <text class="st16" transform="translate(484 475)"><tspan x="0" y="0">The Washington Post</tspan></text>
+  <text class="st24" transform="translate(860 357)"><tspan x="0" y="0">The Associated Press</tspan></text>
+  <text class="st0" transform="translate(936 790)"><tspan x="0" y="0">The Wall Street Journal</tspan></text>
+  <text class="st7" transform="translate(193 639) rotate(-90)"><tspan x="0" y="0">Newsday</tspan></text>
+  <text class="st8" transform="translate(449 714)"><tspan x="0" y="0">The Christian Science Monitor</tspan></text>
+  <text class="st26" transform="translate(483 217)"><tspan x="0" y="0">Reuters</tspan></text>
+  <text class="st10" transform="translate(1259 918)"><tspan x="0" y="0">Los Angeles Times</tspan></text>
+  <text class="st22" transform="translate(244 325)"><tspan x="0" y="0">The Baltimore Sun</tspan></text>
+  <text class="st1" transform="translate(719 830)"><tspan x="0" y="0">Chicago Tribune</tspan></text>
+  <text class="st23" transform="translate(321 748)"><tspan x="0" y="0">The Village Voice</tspan></text>
+  <text class="st14" transform="translate(1283 94)"><tspan x="0" y="0">Unknown</tspan></text>
+  <text class="st11" transform="translate(252 383)"><tspan x="0" y="0">The Milwaukee Journal</tspan></text>
+  <text class="st9" transform="translate(206 965)"><tspan x="0" y="0">Scripps-Howard Newspapers</tspan></text>
+  <text class="st12" transform="translate(720 282)"><tspan x="0" y="0">International News Service</tspan></text>
+  <text class="st19" transform="translate(1302 254)"><tspan x="0" y="0">United Press</tspan></text>
+  <text class="st25" transform="translate(132 852)"><tspan x="0" y="0">New York Daily News</tspan></text>
+  <text class="st5" transform="translate(1272 392)"><tspan x="0" y="0">New York Herald Tribune Syndicate</tspan></text>
+  <text class="st4" transform="translate(1631 695)"><tspan x="0" y="0">The Miami News</tspan></text>
+  <text class="st3" transform="translate(1319 998)"><tspan x="0" y="0">Philadelphia Bulletin</tspan></text>
+  <text class="st20" transform="translate(1587 518)"><tspan x="0" y="0">Dispatch News Service</tspan></text>
+  <text class="st17" transform="translate(118 864) rotate(-90)"><tspan x="0" y="0">The Philadelphia Inquirer</tspan></text>
+  <text class="st13" transform="translate(1321 860)"><tspan x="0" y="0">Louisville Courtier-Journal</tspan></text>
+  <text class="st15" transform="translate(1681 450)"><tspan x="0" y="0">BuzzFeed News</tspan></text>
+  <text class="st2" transform="translate(271 108)"><tspan x="0" y="0">San Jose Mercury News</tspan></text>
+  <text class="st21" transform="translate(653 547)"><tspan x="0" y="0">The Dallas Morning News</tspan></text>
+  <text class="st6" transform="translate(1219 168)"><tspan x="0" y="0">The Miami Herald</tspan></text>
 </svg>
