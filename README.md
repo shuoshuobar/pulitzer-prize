@@ -20,7 +20,7 @@ Scraped the international reporting section of the Pulitzer Prize: https://www.p
 2. Python - Pandas: data organizing 
 3. Excel - minor dataset tweaks
 4. Python - Word Cloud making
-5. Illustrator: Responsive graph editing and exporting with ai2html
+5. Illustrator: Responsive chart editing and exporting with ai2html
 6. HTML: Webpage design
 
 ## Limitation/Looking Ahead:
